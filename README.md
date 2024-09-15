@@ -1,9 +1,9 @@
 # Sales-Data-Analysis
-##Sales Data Analysis: Multi-Year Exploration and Metadata
-###Overview:
+## Sales Data Analysis: Multi-Year Exploration and Metadata
+### Overview:
 This repository contains an analysis of sales data spanning multiple years, along with metadata that provides context about the data collection process and structure. The project aims to explore the datasets, extract valuable insights, and better understand sales trends over the years.
 
-###Files and Structure:
+### Files and Structure:
 The repository includes the following files:
 
 - Clients_bq.csv: Contains information about the clients.
